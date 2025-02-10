@@ -1,4 +1,5 @@
-# Offensive Security 
+# Offensive Security - Red Team
+## To identify and exploit system vulnerabilities -> enhance security measures
 
 Involves breaking into computer systems, exploiting software bugs, and finding loopholes in applications to gain unauthorized access.
 

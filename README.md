@@ -4,4 +4,8 @@ So, you've done some CTF challenges, solved an Autopsy, used ALEAPP and IlEAPP, 
 ## B2B: Back To Basics:
 Before we attack or defend, there are some basic areas we are going to look into such as Networking and using Linux OS.
 
+## Pathways
+
+ - offensive pentesting (hacking machines and reporting on vulnerabilities) 
+ - defensive security (defending against and investigating cyberattacks).
 

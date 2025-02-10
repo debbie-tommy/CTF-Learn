@@ -76,3 +76,9 @@ Malware includes many types, such as:
 A company can also use a SIEM (Security information and Event Management) tool.
 
 - which gathers security-related information and events from various sources and presents them in one dashboard. If the SIEM finds something suspicious, an alert will be generated.
+
+- There are many open-source databases out there, like AbuseIPDB, and Cisco Talos Intelligence, where you can perform a reputation and location check for the IP address. Most security analysts use these tools to aid them with alert investigations. You can also make the Internet safer by reporting the malicious IPs, for example, on AbuseIPDB.
+### Approaching CTFs
+
+ Usually, Shinigami has to navigate through the events and locate the "flag." 
+ A flag is a series of characters with a format like this: "THM{RANDOM_WORDS}".

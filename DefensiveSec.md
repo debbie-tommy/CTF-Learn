@@ -33,7 +33,7 @@ Data is collected from local sources such as network logs and public sources suc
 Data processing arranges it into a format suitable for analysis. 
 The analysis phase seeks to find more information about the attackers and their motives; moreover, it aims to create a list of recommendations and actionable steps.
 
-## Digital Forensics & Incidence Response
+## Digital Forensics & Incident Response
 
 ### Digital Forensics covers:  
 
@@ -45,7 +45,7 @@ The analysis phase seeks to find more information about the attackers and their 
 
 - Network logs: Logs of the network packets that have traversed a network would help answer more questions about whether an attack is occurring and what it entails.
 
-### Incidence Response covers:
+### Incident Response covers:
 1. Preparation: This requires a team trained and ready to handle incidents. Ideally, various measures are put in place to prevent incidents from happening in the first place.
 
 2. Detection and Analysis: The team has the necessary resources to detect any incident; moreover, it is essential to analyze any detected incident further to learn about its severity.
@@ -70,3 +70,9 @@ Malware includes many types, such as:
 - Static analysis works by inspecting the malicious program without running it. This usually requires solid knowledge of assembly language (the processor’s instruction set, i.e., the computer’s fundamental instructions).
 
 - Dynamic analysis works by running the malware in a controlled environment and monitoring its activities. It lets you observe how the malware behaves when running.
+
+## Exploring further:
+
+A company can also use a SIEM (Security information and Event Management) tool.
+
+- which gathers security-related information and events from various sources and presents them in one dashboard. If the SIEM finds something suspicious, an alert will be generated.
